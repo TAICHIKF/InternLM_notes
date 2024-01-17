@@ -21,7 +21,7 @@ https://github.com/InternLM/tutorial/tree/main
 
 ## 📝 作业
 
-助教老师将在社群中公布每节课的作业及提交方式
+助教老师将在社群中公布每节课的作业及提交方式.
 
 
 ## 🖥️ 算力平台
